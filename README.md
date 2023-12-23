@@ -10,8 +10,7 @@
 
 ## Screenshots
 
-<p float="left">
 	
-	![image](https://github.com/ihebakermi10/WeatherApp-Android/assets/90511874/f1b4f2d8-15d5-4ba8-88d8-237343950d55)
+![image](https://github.com/ihebakermi10/WeatherApp-Android/assets/90511874/0036786d-1f7e-4d39-a533-8a328cbac706)
 </p>
 
