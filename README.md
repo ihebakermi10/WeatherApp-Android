@@ -5,12 +5,14 @@
 
 ## Preview
 
-![Screen_recording_20231223_193908](https://github.com/ihebakermi10/WeatherApp-Android/assets/90511874/19f5e7e1-b79a-41fc-95a8-ba252f3e9d2e)
+![Screen_recording_20231223_193908](https://github.com/ihebakermi10/WeatherApp-Android/assets/90511874/8f276ec4-c2a4-4ceb-a73e-42a02a1967d3)
 
 
 ## Screenshots
 
 <p float="left">
+	![image](https://github.com/ihebakermi10/WeatherApp-Android/assets/90511874/134238d4-aadc-4164-abde-9a03bd31cebd)
+
 	<img src="https://github.com/dev-aniketj/Weather-App/blob/master/SS/image2.jpg" width="200"/>
 </p>
 
