@@ -11,7 +11,6 @@
 ## Screenshots
 
 <p float="left">
-![image](https://github.com/ihebakermi10/WeatherApp-Android/assets/90511874/5e1f6b96-4a60-48a5-8fd6-3ac92fb93edc)
 	<img src="https://github.com/dev-aniketj/Weather-App/blob/master/SS/image2.jpg" width="200"/>
 </p>
 
